@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- SYS_USER -->
+<mapper namespace="dao.UserMapper" >
+    <update id="updateUser" parameterType="SysUserEntity" >
+        update sys_user set password=#{password} where username=#{username}
+    </update>
+
+
+    <!-- 查询所有数据 -->
+    <select id="findByName" resultType="sysUserEntity" parameterType="string">
+        SELECT
+        *
+        FROM SYS_USER where username=#{userName}
+    </select>
+
+    <select id="findPermissionByName" resultType="sysPermissionEntity" parameterType="string">
+        SELECT sys_permission.id,sys_permission.permName,sys_permission.permTag
+	      from (select id ,username from sys_user where username=#{userName}) user
+		    join sys_user_role user_role on user.id=user_role.user_id
+		    join sys_role_permission role_permission on user_role.role_id=role_permission.role_id
+		    join sys_permission on sys_permission.id=role_permission.perm_id
+
+    </select>
+
+</mapper>

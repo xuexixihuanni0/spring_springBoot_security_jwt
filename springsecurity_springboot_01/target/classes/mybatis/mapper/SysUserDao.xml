@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hydata.springsecurity_springboot_01.dao.SysUserDao">
+
+    <resultMap type="com.hydata.springsecurity_springboot_01.entity.SysUser" id="SysUserMap">
+        <result property="id" column="id" jdbcType="INTEGER"/>
+        <result property="username" column="username" jdbcType="VARCHAR"/>
+        <result property="realname" column="realname" jdbcType="VARCHAR"/>
+        <result property="password" column="password" jdbcType="VARCHAR"/>
+        <result property="createdate" column="createDate" jdbcType="OTHER"/>
+        <result property="lastlogintime" column="lastLoginTime" jdbcType="OTHER"/>
+        <result property="enabled" column="enabled" jdbcType="INTEGER"/>
+        <result property="accountnonexpired" column="accountNonExpired" jdbcType="INTEGER"/>
+        <result property="accountnonlocked" column="accountNonLocked" jdbcType="INTEGER"/>
+        <result property="credentialsnonexpired" column="credentialsNonExpired" jdbcType="INTEGER"/>
+    </resultMap>
+
+    <!--查询单个-->
+    <select id="queryById" resultMap="SysUserMap">
+        select
+          id, username, realname, password, createDate, lastLoginTime, enabled, accountNonExpired, accountNonLocked, credentialsNonExpired
+        from security.sys_user
+        where id = #{id}
+    </select>
+
+    <!--查询单个-->
+    <select id="queryByUserName" resultMap="SysUserMap" parameterType="string">
+        select
+          id, username, realname, password, createDate, lastLoginTime, enabled, accountNonExpired, accountNonLocked, credentialsNonExpired
+        from security.sys_user
+        where username = #{username}
+    </select>
+
+    <!--查询指定行数据-->
+    <select id="queryAllByLimit" resultMap="SysUserMap">
+        select
+          id, username, realname, password, createDate, lastLoginTime, enabled, accountNonExpired, accountNonLocked, credentialsNonExpired
+        from security.sys_user
+        limit #{offset}, #{limit}
+    </select>
+
+    <!--通过实体作为筛选条件查询-->
+    <select id="queryAll" resultMap="SysUserMap">
+        select
+          id, username, realname, password, createDate, lastLoginTime, enabled, accountNonExpired, accountNonLocked, credentialsNonExpired
+        from security.sys_user
+        <where>
+            <if test="id != null">
+                and id = #{id}
+            </if>
+            <if test="username != null and username != ''">
+                and username = #{username}
+            </if>
+            <if test="realname != null and realname != ''">
+                and realname = #{realname}
+            </if>
+            <if test="password != null and password != ''">
+                and password = #{password}
+            </if>
+            <if test="createdate != null">
+                and createDate = #{createdate}
+            </if>
+            <if test="lastlogintime != null">
+                and lastLoginTime = #{lastlogintime}
+            </if>
+            <if test="enabled != null">
+                and enabled = #{enabled}
+            </if>
+            <if test="accountnonexpired != null">
+                and accountNonExpired = #{accountnonexpired}
+            </if>
+            <if test="accountnonlocked != null">
+                and accountNonLocked = #{accountnonlocked}
+            </if>
+            <if test="credentialsnonexpired != null">
+                and credentialsNonExpired = #{credentialsnonexpired}
+            </if>
+        </where>
+    </select>
+
+
+    <select id="queryPermTagsByUserName" resultType="sysPermission" parameterType="string">
+              SELECT sys_permission.id,sys_permission.permName,sys_permission.permTag
+	      from (select id ,username from sys_user where username=#{userName}) user
+		    join sys_user_role user_role on user.id=user_role.user_id
+		    join sys_role_permission role_permission on user_role.role_id=role_permission.role_id
+		    join sys_permission on sys_permission.id=role_permission.perm_id
+
+    </select>
+
+    <!--新增所有列-->
+    <insert id="insert" keyProperty="id" useGeneratedKeys="true">
+        insert into security.sys_user(username, realname, password, createDate, lastLoginTime, enabled, accountNonExpired, accountNonLocked, credentialsNonExpired)
+        values (#{username}, #{realname}, #{password}, #{createdate}, #{lastlogintime}, #{enabled}, #{accountnonexpired}, #{accountnonlocked}, #{credentialsnonexpired})
+    </insert>
+
+    <!--通过主键修改数据-->
+    <update id="update">
+        update security.sys_user
+        <set>
+            <if test="username != null and username != ''">
+                username = #{username},
+            </if>
+            <if test="realname != null and realname != ''">
+                realname = #{realname},
+            </if>
+            <if test="password != null and password != ''">
+                password = #{password},
+            </if>
+            <if test="createdate != null">
+                createDate = #{createdate},
+            </if>
+            <if test="lastlogintime != null">
+                lastLoginTime = #{lastlogintime},
+            </if>
+            <if test="enabled != null">
+                enabled = #{enabled},
+            </if>
+            <if test="accountnonexpired != null">
+                accountNonExpired = #{accountnonexpired},
+            </if>
+            <if test="accountnonlocked != null">
+                accountNonLocked = #{accountnonlocked},
+            </if>
+            <if test="credentialsnonexpired != null">
+                credentialsNonExpired = #{credentialsnonexpired},
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!--通过主键删除-->
+    <delete id="deleteById">
+        delete from security.sys_user where id = #{id}
+    </delete>
+
+</mapper>

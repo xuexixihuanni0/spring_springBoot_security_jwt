@@ -1,0 +1,31 @@
+{
+  "name" : "SysPermission",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "permname",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "permtag",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.hydata.springsecurity_springboot_01.entity",
+  "savePath" : "E:/HYDATACODE/springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/entity",
+  "saveModelName" : "springsecurity_springboot_01"
+}

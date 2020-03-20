@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/image/ImageContrller.java" description="OutputStream os = null;" line="21" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bec1498b-2b8e-4391-89a0-d6390342fe71" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../springSecurity_02/target/" />
+    <ignored path="$PROJECT_DIR$/../springsecurity_springboot_01/target/" />
+    <ignored path="$PROJECT_DIR$/../jwt_springboot_01/target/" />
+    <ignored path="$PROJECT_DIR$/../spring_springBoot_security_jwt/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="security@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="security: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="security: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="sys_permission: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="security@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="security: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="sys_user: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1807235614">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="FilterChain" value="1" />
+          <entry key="class" value="121" />
+          <entry key="gradlew" value="1" />
+          <entry key="html" value="14" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="273" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="13" />
+          <entry key="pom" value="3" />
+          <entry key="properties" value="4" />
+          <entry key="sql" value="1" />
+          <entry key="sys_user" value="2" />
+          <entry key="xml" value="62" />
+          <entry key="xsd" value="2" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="121" />
+          <entry key="Database Element" value="2" />
+          <entry key="HTML" value="14" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="273" />
+          <entry key="JSP" value="13" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="4" />
+          <entry key="Scratch" value="1" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="67" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="dummy" value="3" />
+          <entry key="html" value="127" />
+          <entry key="java" value="3903" />
+          <entry key="jsp" value="440" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="1101" />
+          <entry key="yml" value="136" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="HTML" value="127" />
+          <entry key="JAVA" value="3903" />
+          <entry key="JSP" value="440" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="SQL" value="5" />
+          <entry key="XML" value="1096" />
+          <entry key="YAML" value="136" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springSecurity_01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../spring_springBoot_security_jwt/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>authorities</find>
+      <find>doFilter</find>
+      <find>creat</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../springSecurity_02/src/main/java/security/MyAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/entity/SysUser.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/MyAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/resources/templates/imageCode.html" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/MyAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/ImageContrller.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/image/A.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/image/VerifyCode.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/MyE.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/MyAuthenticationException.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/MyOnecPerFilter.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/security/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/image/ImageContrller.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/MyMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/MyAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/../springSecurity_02/src/main/java/security/MyOncePerRequestFilter.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/MyAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/MyOnecPerFilter.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/mvc/MyMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/My.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/test/java/com/hydata/jwt_springboot_01/JwtSpringboot01ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/image/VerifyCode.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/entity/SysPermission.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/service/SysUserController.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/service/SysUserService.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/repository/SysUserDao.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/resources/mybatis/mapper/SysUserDao.xml" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/entity/User.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/entity/JwtUser.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/JwtSpringboot01Application.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/model/LoginUser.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/service/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/filter/JWTAuthorizationFilter.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/filter/JWTAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/mvc/MyMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_springBoot_security_jwt/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository_maven" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.2.1-bin/apache-maven-3.2.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.2.1-bin\apache-maven-3.2.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-39" />
+    <option name="y" value="47" />
+    <option name="width" value="1934" />
+    <option name="height" value="989" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ali-Check</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springSecurity_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springSecurity_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springSecurity_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springsecurity_springboot_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="DefaultToken&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE.jar!/org/springframework/security/core/token/DefaultToken.class&#10;WebSecurity&#9;PSI&#9;JAVA://org.springframework.security.config.annotation.web.builders.WebSecurity&#10;AbstractUserDetailsAuthenticationProvider&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class&#10;Usernamepass&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter&#10;AbstractUser&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.class&#10;Username&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class&#10;PasswordEncoderFactories &#9;PSI&#9;JAVA://org.springframework.security.crypto.factory.PasswordEncoderFactories&#10;password&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/crypto/password/PasswordEncoder.class&#10;formLoginF&#9;PSI&#9;JAVA://org.springframework.security.config.http.SecurityFilters#FORM_LOGIN_FILTER&#10;username&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class&#10;FormLoginF&#9;PSI&#9;JAVA://org.springframework.security.config.http.SecurityFilters#FORM_LOGIN_FILTER&#10;PasswordFil&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter&#10;passfil&#9;FILE&#9;jar://E:/maven/repository_maven/org/springframework/security/spring-security-web/4.2.3.RELEASE/spring-security-web-4.2.3.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class&#10;passwordFil&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584547886425" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="E:/海云数据/B-河北水利/03_Server/01_SourceCode/HyPlatform" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\HYDATACODE\springsecurity_springboot_01\src\main" />
+      <recent name="E:\HYDATACODE\springsecurity_springboot_01\src\main\resources\templates\user" />
+      <recent name="E:\HYDATACODE\springsecurity_springboot_01\src\main\resources\mybatis" />
+      <recent name="E:\HYDATACODE\springSecurity_02\src\main\webapp" />
+      <recent name="E:\HYDATACODE\springSecurity_02\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hydata.jwt_springboot_01.config.mvc" />
+      <recent name="com.hydata.jwt_springboot_01.config" />
+      <recent name="com.hydata.jwt_springboot_01.repository" />
+      <recent name="dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HYDATACODE\jwt_springboot_01\src\main\java\com\hydata\jwt_springboot_01\config" />
+      <recent name="E:\HYDATACODE\jwt_springboot_01\src\main\resources\templates" />
+      <recent name="E:\HYDATACODE\jwt_springboot_01\src\main\resources" />
+      <recent name="E:\HYDATACODE\jwt_springboot_01\src\main\java\com\hydata\jwt_springboot_01\service" />
+      <recent name="E:\HYDATACODE\jwt_springboot_01\src\main\java\com\hydata\jwt_springboot_01\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringsecuritySpringboot01Application">
+    <configuration name="SpringTest.updateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springSecurity_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="updateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritySpringboot01ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springsecurity_springboot_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hydata.springsecurity_springboot_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hydata.springsecurity_springboot_01" />
+      <option name="MAIN_CLASS_NAME" value="com.hydata.springsecurity_springboot_01.SpringsecuritySpringboot01ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritySpringboot01ApplicationTests.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springsecurity_springboot_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hydata.springsecurity_springboot_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hydata.springsecurity_springboot_01" />
+      <option name="MAIN_CLASS_NAME" value="com.hydata.springsecurity_springboot_01.SpringsecuritySpringboot01ApplicationTests" />
+      <option name="METHOD_NAME" value="queryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritySpringboot01ApplicationTests.queryPermTagsByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springsecurity_springboot_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hydata.springsecurity_springboot_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hydata.springsecurity_springboot_01" />
+      <option name="MAIN_CLASS_NAME" value="com.hydata.springsecurity_springboot_01.SpringsecuritySpringboot01ApplicationTests" />
+      <option name="METHOD_NAME" value="queryPermTagsByUserName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springSecurity_02 [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../springSecurity_02" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JwtSpringboot01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt_springboot_01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hydata.jwt_springboot_01.JwtSpringboot01Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringsecuritySpringboot01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springsecurity_springboot_01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hydata.springsecurity_springboot_01.SpringsecuritySpringboot01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringsecuritySpringboot01Application" />
+      <item itemvalue="Spring Boot.JwtSpringboot01Application" />
+      <item itemvalue="JUnit.SpringTest.updateUser" />
+      <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.queryPermTagsByUserName" />
+      <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.queryById" />
+      <item itemvalue="Maven.springSecurity_02 [tomcat7:run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.springSecurity_02 [tomcat7:run]" />
+        <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.queryById" />
+        <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.queryPermTagsByUserName" />
+        <item itemvalue="JUnit.SpringsecuritySpringboot01ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringTest.updateUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\djc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bec1498b-2b8e-4391-89a0-d6390342fe71" name="Default Changelist" comment="" />
+      <created>1583819060962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583819060962</updated>
+      <workItem from="1583819064211" duration="18472000" />
+      <workItem from="1583902350557" duration="3320000" />
+      <workItem from="1584000543635" duration="17476000" />
+      <workItem from="1584072944142" duration="36457000" />
+      <workItem from="1584165882713" duration="9553000" />
+      <workItem from="1584430117153" duration="1037000" />
+      <workItem from="1584499657509" duration="28000" />
+      <workItem from="1584499699362" duration="22632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 28m 29s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 29m 22s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 30m 03s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 31m 04s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 31m 44s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_updateUser - 2020.03.11 at 13h 34m 31s.xml">
+      <configuration name="SpringTest.updateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringsecuritySpringboot01ApplicationTests_contextLoads - 2020.03.13 at 14h 14m 11s.xml">
+      <configuration name="SpringsecuritySpringboot01ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringsecuritySpringboot01ApplicationTests_contextLoads - 2020.03.13 at 14h 14m 19s.xml">
+      <configuration name="SpringsecuritySpringboot01ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringsecuritySpringboot01ApplicationTests_queryPermTagsByUserName - 2020.03.13 at 15h 50m 40s.xml">
+      <configuration name="SpringsecuritySpringboot01ApplicationTests.queryPermTagsByUserName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringsecuritySpringboot01ApplicationTests_queryById - 2020.03.14 at 15h 33m 03s.xml">
+      <configuration name="SpringsecuritySpringboot01ApplicationTests.queryById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108975000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49805447" visible="true" weight="0.23347548" />
+      <window_info id="Structure" order="1" sideWeight="0.500657" side_tool="true" weight="0.21908316" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5022355" side_tool="true" weight="0.33990481" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5019455" side_tool="true" weight="0.23347548" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32814237" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.12013348" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.30367073" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.4638487" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.31256953" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.3491471" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.19989339" />
+      <window_info anchor="right" id="Database" order="7" weight="0.07089552" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49850747" visible="true" weight="0.26599148" />
+      <window_info id="Structure" order="1" sideWeight="0.500657" side_tool="true" weight="0.21908316" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5022355" side_tool="true" weight="0.33990481" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32883435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48498333" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.32480535" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.4638487" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31256953" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32925472" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.3491471" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.2185501" />
+      <window_info anchor="right" id="Database" order="8" weight="0.07089552" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/MyAuthenticationFailureHandler.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/ProviderManager.class</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/utils/JwtTokenUtils.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/MainController.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/utils/JwtTokenUtils.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/mvc/MyMvcConfiguration.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="permissionList.get(1)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/service/impl/SysUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="89" column="4" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="96" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/model/LoginUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="e#6787#6788#0" expanded="true" />
+            <element signature="e#6819#6820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/MyAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/MyAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/MyAuthenticationException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/security/MyOnecPerFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/exception/JWTAccessDeniedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/AuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="56" lean-forward="true" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/exception/JWTAuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/entity/JwtUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="27" column="103" selection-start-line="27" selection-start-column="103" selection-end-line="27" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/image/VerifyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.2.RELEASE/spring-security-config-5.2.2.RELEASE-sources.jar!/org/springframework/security/config/http/SessionCreationPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/config/security/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2889">
+          <caret line="110" column="60" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="189" selection-start-line="189" selection-end-line="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/web/filter/CorsFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/FilterChainProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/exception/TokenIsExpiredException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/security/MyUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="71" column="49" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/core/authority/AuthorityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.2/jackson-databind-2.10.2-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15749">
+          <caret line="529" column="11" selection-start-line="529" selection-start-column="11" selection-end-line="529" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#22192#22193#0" expanded="true" />
+            <element signature="e#22230#22231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.2.RELEASE/spring-security-web-5.2.2.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.4.RELEASE/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1511">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.2.RELEASE/spring-security-config-5.2.2.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.2.RELEASE/spring-security-config-5.2.2.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="2530" selection-start-line="2530" selection-end-line="2530" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/config/mvc/MyMvcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springsecurity_springboot_01/src/main/java/com/hydata/springsecurity_springboot_01/SpringsecuritySpringboot01Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE.jar!/org/springframework/security/core/token/DefaultToken.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#1756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/core/token/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/core/token/DefaultToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/utils/JwtTokenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/filter/JWTAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="35" column="74" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jwt_springboot_01/src/main/java/com/hydata/jwt_springboot_01/filter/JWTAuthorizationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_springBoot_security_jwt/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.5.RELEASE/spring-boot-starter-parent-2.2.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springsecurity_springboot_01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_springBoot_security_jwt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|springSecurity_01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
